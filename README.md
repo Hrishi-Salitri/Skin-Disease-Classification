@@ -1,15 +1,20 @@
 # SkinDiseaseClassification
-This repository hosts a Streamlit application developed as part of the Advanced Machine Learning course at UT Austin. 
+This project is a machine learning-based application for classifying skin diseases using neural network models. The application is designed to classify seven distinct skin disease categories, showcasing the practical application of machine learning techniques in healthcare. It features an interactive web interface built with Streamlit for real-time predictions and user-friendly interaction.
 
-Group Members:
+### Technologies Used
+Python
+TensorFlow / PyTorch (specify as applicable)
+Streamlit
+OpenCV (for image preprocessing)
+Pandas & NumPy (for data handling)
+
+### Group Members:
 - Hrishi Salitri
 - Jaime Wang
 - Manasa Maganti
 - Marifer Martinez-Garcia
 - Mykyta Zavhorodko
 
-
-The application is designed to classify seven distinct skin disease categories, showcasing the practical application of machine learning techniques in healthcare.
 It is hosted on the following URL:
 https://skindiseaseclassification-aml-g18.streamlit.app/
 
